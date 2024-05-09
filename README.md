@@ -1,5 +1,5 @@
 <h1 align="center">AI Snake Game</h1>
-  <h3>A unsupervised learning model which analyses playlists and gives recommendations</h3>
+  <h3></h3>
 
 </div>
 
@@ -14,4 +14,4 @@
 
 <br/>
 
-This project explores the use of unsupervised learning models to analyze playlists and generate music recommendations. The dataset employed for this purpose is the Freesound Audio Tagging (FMA) dataset.
+
