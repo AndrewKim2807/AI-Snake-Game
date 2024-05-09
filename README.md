@@ -15,3 +15,4 @@
 <br/>
 
 
+![Thumbnail](https://github.com/AndrewKim2807/AI-Snake-Game/blob/main/AI%20Learns%20how%20to%20play%20the%20snake%20game.png)
